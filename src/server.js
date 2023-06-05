@@ -12,6 +12,17 @@ app.use(cors({
     methods: ['GET', 'PUT', 'POST', 'DELETE'],
     allowedHeaders: ['Content-Type', 'Authorization']
 }));
+const { createProxyMiddleware } = require('http-proxy-middleware');
+
+app.use('/api', createProxyMiddleware({
+    target: 'https://backend-online-shop-cnx9.vercel.app',
+    changeOrigin: true,
+    onProxyRes: function(proxyRes, req, res) {
+        proxyRes.headers['Access-Control-Allow-Origin'] = 'http://localhost:5173';
+        proxyRes.headers['Access-Control-Allow-Headers'] = 'Content-Type';
+        proxyRes.headers['Access-Control-Allow-Methods'] = 'POST, PUT, GET, OPTIONS';
+    },
+}));
 
 // Код для backend
 const getInstruments = async () => {
@@ -37,18 +48,8 @@ const addInstrument = async (instrument) => {
 };
 // ---
 
-// ---
-app.use(function(req, res, next) {
-    res.header('Access-Control-Allow-Origin', '*');
-    res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
-    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
-    res.header('Access-Control-Allow-Credentials', true);
-    next();
-});
 // Код для backend
-app.get('/', (req, res) => {
-    res.send('Hello World!');
-});
+
 // app user
 app.post('/api/user', async (req, res) => {
     try {
