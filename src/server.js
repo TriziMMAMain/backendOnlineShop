@@ -587,5 +587,5 @@ app.get('/api/instrument/change', async (req, res) => {
 });
 
 app.listen(3000, () => {
-    console.log('Сервер запущен на http://localhost:3000');
+    console.log('Сервер запущен на http://localhost:3000)');
 });
