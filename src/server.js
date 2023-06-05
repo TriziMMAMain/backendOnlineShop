@@ -8,13 +8,11 @@ const path = require('path')
 
 app.use(bodyParser.json());
 
-// использование middleware для добавления CORS
-app.use(cors({
-    origin: '*',
-    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
-    credentials: true,
-    exposedHeaders: '',
-}));
+const corsOptions = {
+    origin: 'https://frontend-online-shop-drab.vercel.app'
+};
+
+app.use(cors(corsOptions));
 
 
 // Код для backend
