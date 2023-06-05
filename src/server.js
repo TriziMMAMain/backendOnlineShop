@@ -8,13 +8,7 @@ const path = require('path')
 
 app.use(bodyParser.json());
 
-const corsOptions = {
-    origin: '*',
-    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-    allowedHeaders: ['Content-Type']
-};
-
-app.use(cors(corsOptions));
+app.use(cors());
 
 app.get('/', (req, res) => {
     res.send('Hello world');
