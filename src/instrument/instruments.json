@@ -1,0 +1,2423 @@
+[
+  {
+    "id": 192689,
+    "numberInList": 0,
+    "type": "Аккумуляторный инструмент",
+    "typeThis": "Аккумуляторная дрель-шуруповерт",
+    "brand": "Metabo",
+    "name": "Дрель-шуруповерт Metabo PowerMaxx BS Basic",
+    "city": "Донецк",
+    "featureTop": "Аккумуляторный винтоверт Metabo PowerMaxx BS Basic Set 600080960 оснащен шпинделем с внутренним шестигранником для бит, что позволяет работать без сверлильного патрона. Благодаря практичному крючку, который фиксируется справа или слева, можно носить инструмент на ремне. Предусмотрен индикатор заряда аккумулятора. Модель поставляется с 3 аккумулятора, что позволяет вести продолжительные работы, не тратя время на подзарядку.",
+    "featureTopTitle": [
+      {
+        "featureTopTitleInfoTitle": "MAX крутящий момент:",
+        "featureTopTitleInfoText": "50 Нм"
+      },
+      {
+        "featureTopTitleInfoTitle": "MAX диаметр сверления (металл):",
+        "featureTopTitleInfoText": "13 мм"
+      },
+      {
+        "featureTopTitleInfoTitle": "Max диаметр сверления (дерево):",
+        "featureTopTitleInfoText": "38 мм"
+      },
+      {
+        "featureTopTitleInfoTitle": "Тип батареи:",
+        "featureTopTitleInfoText": "Li-Ion/Ni-Cd"
+      },
+      {
+        "featureTopTitleInfoTitle": "Напряжение батареи:",
+        "featureTopTitleInfoText": "18 В"
+      },
+      {
+        "featureTopTitleInfoTitle": "Вес нетто:",
+        "featureTopTitleInfoText": "1,3 кг"
+      }
+    ],
+    "featureMiddle": [
+      {
+        "Feature Order": "1",
+        "feature": "Тип:",
+        "featureValue": "аккумуляторный"
+      },
+      {
+        "Feature Order": "2",
+        "feature": "Тип двигателя:",
+        "featureValue": "щеточный"
+      },
+      {
+        "Feature Order": "3",
+        "feature": "Наличие удара:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "4",
+        "feature": "Ленточные (магазинные):",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "5",
+        "feature": "Наличие реверса:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "6",
+        "feature": "Наличие подсветки:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "7",
+        "feature": "Тормоз двигателя:",
+        "featureValue": "есть"
+      },
+      {
+        "Feature Order": "8",
+        "feature": "Тип патрона:",
+        "featureValue": "быстрозажимной"
+      },
+      {
+        "Feature Order": "9",
+        "feature": "Крепление патрона:",
+        "featureValue": "1/2"
+      },
+      {
+        "Feature Order": "10",
+        "feature": "Блокировка шпинделя:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "11",
+        "feature": "Размер зажимаемой оснастки:",
+        "featureValue": "2-13 мм"
+      },
+      {
+        "Feature Order": "12",
+        "feature": "MAX крутящий момент:",
+        "featureValue": "50 Нм"
+      },
+      {
+        "Feature Order": "13",
+        "feature": "Число скоростей:",
+        "featureValue": "2"
+      },
+      {
+        "Feature Order": "14",
+        "feature": "Частота вращения шпинделя:",
+        "featureValue": "0-500/0-1800 об/мин"
+      },
+      {
+        "Feature Order": "15",
+        "feature": "Число ступеней крутящего момента:",
+        "featureValue": "24+1"
+      },
+      {
+        "Feature Order": "16",
+        "feature": "MAX диаметр шурупа:",
+        "featureValue": "6 мм"
+      },
+      {
+        "Feature Order": "17",
+        "feature": "MAX диаметер сверления (металла):",
+        "featureValue": "13 мм"
+      },
+      {
+        "Feature Order": "18",
+        "feature": "MAX диаметер сверления дерева:",
+        "featureValue": "38 мм"
+      },
+      {
+        "Feature Order": "19",
+        "feature": "Тип батареи:",
+        "featureValue": "Li-Ion/Ni-Cd"
+      },
+      {
+        "Feature Order": "20",
+        "feature": "Напряжение батерии",
+        "featureValue": "18 В"
+      },
+      {
+        "Feature Order": "21",
+        "feature": "Устройство аккумулятора:",
+        "featureValue": "обойма"
+      },
+      {
+        "Feature Order": "22",
+        "feature": "Количество аккумуляторов в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "23",
+        "feature": "Зарядное устройство в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "24",
+        "feature": "Габариты без упаковки:",
+        "featureValue": "291х181х267 мм"
+      },
+      {
+        "Feature Order": "25",
+        "feature": "Вес нетто:",
+        "featureValue": "1,3 кг"
+      },
+      {
+        "Feature Order": "26",
+        "feature": "Съемный патрон:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "27",
+        "feature": "Индикатор уровня зарядки на корпусе дрели:",
+        "featureValue": "нет"
+      }
+    ],
+    "featureDownArray": [
+      {
+        "featureDown": "Быстрозажимной патрон - для простой смены оснастки;"
+      },
+      {
+        "featureDown": "Наличие реверса;"
+      },
+      {
+        "featureDown": "Двухскоростной редуктор;"
+      },
+      {
+        "featureDown": "Новая удобная рукоятка;"
+      },
+      {
+        "featureDown": "24 позиции крутящего момента - для работы с различными материалами;"
+      },
+      {
+        "featureDown": "Встроенная подсветка - для работы при плохом освещении."
+      }
+    ],
+    "availability": "5",
+    "imgTitle": "https://dc592.4shared.com/img/Bv8g4T3yku/s24/187f694d9f8/Metabo_PowerMaxx_basic__7_?async&rand=0.05113450524812713",
+    "imgArray": [
+      {
+        "src": "https://dc592.4shared.com/img/J9iqcbAljq/s24/187f694d610/Metabo_PowerMaxx_basic__6_?async&rand=0.45207154359942225"
+      }
+    ],
+    "price": 10000,
+    "orderSum": 1,
+    "priceOrder": 10000
+  },
+  {
+    "id": 696586,
+    "numberInList": 0,
+    "type": "Аккумуляторный инструмент",
+    "typeThis": "Аккумуляторная болгарка",
+    "brand": "PROCRAFT",
+    "name": "Бесщеточная аккумуляторная болгарка Procraft PWA216",
+    "city": "Донецк",
+    "featureTop": "Бесщеточная болгарка Procraft PWA216 на зарядном механизме – инструмент со съемными дисками размером 125 мм, который питается от аккумуляторного устройства из литиевого сплава. Агрегат имеет бесщёточный мотор, который отличается повышенной степенью надежности и выносливостью. Мотор оборудования обладает повышенной производительностью. Механизм оснащен аккумулятором с большим запасом емкости, который долгое время держит заряд. Мониторинг работы осуществляется за счет светового указателя.",
+    "featureTopTitle": [
+      {
+        "featureTopTitleInfoTitle": "Число оборотов холостого хода:",
+        "featureTopTitleInfoText": "8500 об/мин"
+      },
+      {
+        "featureTopTitleInfoTitle": "Вес:",
+        "featureTopTitleInfoText": "2.5 Кг"
+      },
+      {
+        "featureTopTitleInfoTitle": "Ёмкость батареи:",
+        "featureTopTitleInfoText": "4 Ач"
+      },
+      {
+        "featureTopTitleInfoTitle": "Номинальное напряжение:",
+        "featureTopTitleInfoText": "20 В"
+      },
+      {
+        "featureTopTitleInfoTitle": "Плавный пуск:",
+        "featureTopTitleInfoText": "есть"
+      },
+      {
+        "featureTopTitleInfoTitle": "Регулировка оборотов:",
+        "featureTopTitleInfoText": "электронная"
+      }
+    ],
+    "featureMiddle": [
+      {
+        "Feature Order": "1",
+        "feature": "Тип (ДРУГОЙ АППАРАТ):",
+        "featureValue": "аккумуляторный"
+      },
+      {
+        "Feature Order": "2",
+        "feature": "Тип двигателя:",
+        "featureValue": "щеточный"
+      },
+      {
+        "Feature Order": "3",
+        "feature": "Наличие удара:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "4",
+        "feature": "Ленточные (магазинные):",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "5",
+        "feature": "Наличие реверса:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "6",
+        "feature": "Наличие подсветки:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "7",
+        "feature": "Тормоз двигателя:",
+        "featureValue": "есть"
+      },
+      {
+        "Feature Order": "8",
+        "feature": "Тип патрона:",
+        "featureValue": "быстрозажимной"
+      },
+      {
+        "Feature Order": "9",
+        "feature": "Крепление патрона:",
+        "featureValue": "1/2"
+      },
+      {
+        "Feature Order": "10",
+        "feature": "Блокировка шпинделя:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "11",
+        "feature": "Размер зажимаемой оснастки:",
+        "featureValue": "2-13 мм"
+      },
+      {
+        "Feature Order": "12",
+        "feature": "MAX крутящий момент:",
+        "featureValue": "50 Нм"
+      },
+      {
+        "Feature Order": "13",
+        "feature": "Число скоростей:",
+        "featureValue": "2"
+      },
+      {
+        "Feature Order": "14",
+        "feature": "Частота вращения шпинделя:",
+        "featureValue": "0-500/0-1800 об/мин"
+      },
+      {
+        "Feature Order": "15",
+        "feature": "Число ступеней крутящего момента:",
+        "featureValue": "24+1"
+      },
+      {
+        "Feature Order": "16",
+        "feature": "MAX диаметр шурупа:",
+        "featureValue": "6 мм"
+      },
+      {
+        "Feature Order": "17",
+        "feature": "MAX диаметер сверления (металла):",
+        "featureValue": "13 мм"
+      },
+      {
+        "Feature Order": "18",
+        "feature": "MAX диаметер сверления дерева:",
+        "featureValue": "38 мм"
+      },
+      {
+        "Feature Order": "19",
+        "feature": "Тип батареи:",
+        "featureValue": "Li-Ion/Ni-Cd"
+      },
+      {
+        "Feature Order": "20",
+        "feature": "Напряжение батерии",
+        "featureValue": "18 В"
+      },
+      {
+        "Feature Order": "21",
+        "feature": "Устройство аккумулятора:",
+        "featureValue": "обойма"
+      },
+      {
+        "Feature Order": "22",
+        "feature": "Количество аккумуляторов в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "23",
+        "feature": "Зарядное устройство в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "24",
+        "feature": "Габариты без упаковки:",
+        "featureValue": "291х181х267 мм"
+      },
+      {
+        "Feature Order": "25",
+        "feature": "Вес нетто:",
+        "featureValue": "1,3 кг"
+      },
+      {
+        "Feature Order": "26",
+        "feature": "Съемный патрон:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "27",
+        "feature": "Индикатор уровня зарядки на корпусе дрели:",
+        "featureValue": "нет"
+      }
+    ],
+    "featureDownArray": [
+      {
+        "featureDown": "Два аккумулятора емкостью 4 А/ч;"
+      },
+      {
+        "featureDown": "Возможность регулирования скорости;"
+      },
+      {
+        "featureDown": "Мотор без щеток;"
+      },
+      {
+        "featureDown": "Рукоятка с резиновыми вставками."
+      }
+    ],
+    "availability": "3",
+    "imgTitle": "https://procraft.ua/image/cache/catalog/akkumuljatornye_instryment/akkumuljatornaja-bolgarka/PWA216/PWA216_1-750x610.jpg",
+    "imgArray": [
+      {
+        "src": "https://procraft.ua/image/cache/catalog/akkumuljatornye_instryment/akkumuljatornaja-bolgarka/PWA216/PWA216_1-750x610.jpg"
+      },
+      {
+        "src": "https://procraft.ua/image/cache/catalog/akkumuljatornye_instryment/akkumuljatornaja-bolgarka/PWA216/PWA216_3-750x610.jpg"
+      },
+      {
+        "src": "https://procraft.ua/image/cache/catalog/akkumuljatornye_instryment/akkumuljatornaja-bolgarka/PWA216/PWA216_4-750x610.jpg"
+      },
+      {
+        "src": "https://procraft.ua/image/cache/catalog/akkumuljatornye_instryment/akkumuljatornaja-bolgarka/PWA216/PWA216_5-750x610.jpg"
+      },
+      {
+        "src": "https://procraft.ua/image/cache/catalog/akkumuljatornye_instryment/akkumuljatornaja-bolgarka/PWA216/PWA216_6-750x610.jpg"
+      },
+      {
+        "src": "https://procraft.ua/image/cache/catalog/akkumuljatornye_instryment/akkumuljatornaja-bolgarka/PWA216/PWA216_7-750x610.jpg"
+      }
+    ],
+    "price": 7500,
+    "orderSum": 1,
+    "priceOrder": 7500
+  },
+  {
+    "id": 619254,
+    "numberInList": 0,
+    "type": "Аккумуляторный инструмент",
+    "typeThis": "Аккумуляторный перфоратор",
+    "brand": "Makita",
+    "name": "Аккумуляторный перфоратор Makita 1327861231",
+    "city": "Донецк",
+    "featureTop": "Заголовок",
+    "featureTopTitle": [
+      {
+        "featureTopTitleInfoTitle": "MAX крутящий момент:",
+        "featureTopTitleInfoText": "50 Нм"
+      },
+      {
+        "featureTopTitleInfoTitle": "MAX диаметр сверления (металл):",
+        "featureTopTitleInfoText": "13 мм"
+      },
+      {
+        "featureTopTitleInfoTitle": "Max диаметр сверления (дерево):",
+        "featureTopTitleInfoText": "38 мм"
+      },
+      {
+        "featureTopTitleInfoTitle": "Тип батареи:",
+        "featureTopTitleInfoText": "Li-Ion/Ni-Cd"
+      },
+      {
+        "featureTopTitleInfoTitle": "Напряжение батареи:",
+        "featureTopTitleInfoText": "18 В"
+      },
+      {
+        "featureTopTitleInfoTitle": "Вес нетто:",
+        "featureTopTitleInfoText": "1,3 кг"
+      }
+    ],
+    "featureMiddle": [
+      {
+        "Feature Order": "1",
+        "feature": "Тип:",
+        "featureValue": "аккумуляторный"
+      },
+      {
+        "Feature Order": "2",
+        "feature": "Тип двигателя:",
+        "featureValue": "щеточный"
+      },
+      {
+        "Feature Order": "3",
+        "feature": "Наличие удара:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "4",
+        "feature": "Ленточные (магазинные):",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "5",
+        "feature": "Наличие реверса:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "6",
+        "feature": "Наличие подсветки:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "7",
+        "feature": "Тормоз двигателя:",
+        "featureValue": "есть"
+      },
+      {
+        "Feature Order": "8",
+        "feature": "Тип патрона:",
+        "featureValue": "быстрозажимной"
+      },
+      {
+        "Feature Order": "9",
+        "feature": "Крепление патрона:",
+        "featureValue": "1/2"
+      },
+      {
+        "Feature Order": "10",
+        "feature": "Блокировка шпинделя:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "11",
+        "feature": "Размер зажимаемой оснастки:",
+        "featureValue": "2-13 мм"
+      },
+      {
+        "Feature Order": "12",
+        "feature": "MAX крутящий момент:",
+        "featureValue": "50 Нм"
+      },
+      {
+        "Feature Order": "13",
+        "feature": "Число скоростей:",
+        "featureValue": "2"
+      },
+      {
+        "Feature Order": "14",
+        "feature": "Частота вращения шпинделя:",
+        "featureValue": "0-500/0-1800 об/мин"
+      },
+      {
+        "Feature Order": "15",
+        "feature": "Число ступеней крутящего момента:",
+        "featureValue": "24+1"
+      },
+      {
+        "Feature Order": "16",
+        "feature": "MAX диаметр шурупа:",
+        "featureValue": "6 мм"
+      },
+      {
+        "Feature Order": "17",
+        "feature": "MAX диаметер сверления (металла):",
+        "featureValue": "13 мм"
+      },
+      {
+        "Feature Order": "18",
+        "feature": "MAX диаметер сверления дерева:",
+        "featureValue": "38 мм"
+      },
+      {
+        "Feature Order": "19",
+        "feature": "Тип батареи:",
+        "featureValue": "Li-Ion/Ni-Cd"
+      },
+      {
+        "Feature Order": "20",
+        "feature": "Напряжение батерии",
+        "featureValue": "18 В"
+      },
+      {
+        "Feature Order": "21",
+        "feature": "Устройство аккумулятора:",
+        "featureValue": "обойма"
+      },
+      {
+        "Feature Order": "22",
+        "feature": "Количество аккумуляторов в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "23",
+        "feature": "Зарядное устройство в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "24",
+        "feature": "Габариты без упаковки:",
+        "featureValue": "291х181х267 мм"
+      },
+      {
+        "Feature Order": "25",
+        "feature": "Вес нетто:",
+        "featureValue": "1,3 кг"
+      },
+      {
+        "Feature Order": "26",
+        "feature": "Съемный патрон:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "27",
+        "feature": "Индикатор уровня зарядки на корпусе дрели:",
+        "featureValue": "нет"
+      }
+    ],
+    "featureDownArray": [
+      {
+        "featureDown": "Быстрозажимной патрон - для простой смены оснастки;"
+      },
+      {
+        "featureDown": "Наличие реверса;"
+      },
+      {
+        "featureDown": "Двухскоростной редуктор;"
+      },
+      {
+        "featureDown": "Новая удобная рукоятка;"
+      },
+      {
+        "featureDown": "24 позиции крутящего момента - для работы с различными материалами;"
+      },
+      {
+        "featureDown": "Встроенная подсветка - для работы при плохом освещении."
+      }
+    ],
+    "availability": "1",
+    "imgTitle": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/akkumulyatornyj-instrument/701952/560x504/51268908.jpg",
+    "imgArray": [
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/akkumulyatornyj-instrument/701952/560x504/51268908.jpg"
+      }
+    ],
+    "price": 17000,
+    "orderSum": 1,
+    "priceOrder": 17000
+  },
+  {
+    "id": 629793,
+    "numberInList": 0,
+    "type": "Бензоинструмент",
+    "typeThis": "Бензогенератор",
+    "brand": "TSS",
+    "name": "Бензогенератор TSS SGG 2800EN",
+    "city": "Донецк",
+    "featureTop": "Заголовок",
+    "featureTopTitle": [
+      {
+        "featureTopTitleInfoTitle": "Напряжение:",
+        "featureTopTitleInfoText": "220 В"
+      },
+      {
+        "featureTopTitleInfoTitle": "Стартер:",
+        "featureTopTitleInfoText": "ручной стартер/электростартер"
+      },
+      {
+        "featureTopTitleInfoTitle": "MAX мощность при 220 В:",
+        "featureTopTitleInfoText": "3 кВт"
+      },
+      {
+        "featureTopTitleInfoTitle": "Номинальная мощность при 220 В:",
+        "featureTopTitleInfoText": "2.8 кВт"
+      },
+      {
+        "featureTopTitleInfoTitle": "Альтернатор:",
+        "featureTopTitleInfoText": "синхронный"
+      },
+      {
+        "featureTopTitleInfoTitle": "Автозапуск:",
+        "featureTopTitleInfoText": "нет"
+      }
+    ],
+    "featureMiddle": [
+      {
+        "Feature Order": "1",
+        "feature": "Стартер:",
+        "featureValue": "ручной стартер/электростартер"
+      },
+      {
+        "Feature Order": "2",
+        "feature": "Напряжение:",
+        "featureValue": "220 В"
+      },
+      {
+        "Feature Order": "3",
+        "feature": "MAX мощность при 220 В:",
+        "featureValue": "3 кВт"
+      },
+      {
+        "Feature Order": "4",
+        "feature": "Емкость топливного бака:",
+        "featureValue": "15 л"
+      },
+      {
+        "Feature Order": "5",
+        "feature": "Мощность номинальная при 220 В",
+        "featureValue": "2,8 кВт"
+      },
+      {
+        "Feature Order": "6",
+        "feature": "Альтернатор:",
+        "featureValue": "синхронный"
+      },
+      {
+        "Feature Order": "7",
+        "feature": "Модель двигателя:",
+        "featureValue": "170FD"
+      },
+      {
+        "Feature Order": "8",
+        "feature": "Наличие быстросменного патрона:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "9",
+        "feature": "Контейнерный:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "10",
+        "feature": "Комплектация:",
+        "featureValue": "коробка"
+      },
+      {
+        "Feature Order": "11",
+        "feature": "Автозапуск:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "12",
+        "feature": "Класс товара:",
+        "featureValue": "Бытовой"
+      },
+      {
+        "Feature Order": "13",
+        "feature": "Дисплей:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "14",
+        "feature": "Обмотка альтернатора двигателя:",
+        "featureValue": "медь"
+      },
+      {
+        "Feature Order": "15",
+        "feature": "Тип кожуха:",
+        "featureValue": "открытый"
+      },
+      {
+        "Feature Order": "16",
+        "feature": "Вес нетто:",
+        "featureValue": "50 кг"
+      },
+      {
+        "Feature Order": "17",
+        "feature": "Габариты без упаковки:",
+        "featureValue": "590х425х440 мм"
+      },
+      {
+        "Feature Order": "18",
+        "feature": "Вид топлива:",
+        "featureValue": "бензин"
+      },
+      {
+        "Feature Order": "19",
+        "feature": "Двигатель:",
+        "featureValue": "Двигатель бензиновый TSS KM 170FD"
+      },
+      {
+        "Feature Order": "20",
+        "feature": "Объем масляного бака:",
+        "featureValue": "0.6 л"
+      },
+      {
+        "Feature Order": "21",
+        "feature": "Мощность максимальная при 220 В:",
+        "featureValue": "3 кВт"
+      },
+      {
+        "Feature Order": "22",
+        "feature": "Номинальный ток:",
+        "featureValue": "12 А"
+      },
+      {
+        "Feature Order": "23",
+        "feature": "Эл. выходы 380/220/12:",
+        "featureValue": "0/2/1 шт"
+      },
+      {
+        "Feature Order": "24",
+        "feature": "Объем двигателя:",
+        "featureValue": "210 см³"
+      },
+      {
+        "Feature Order": "25",
+        "feature": "Мощность двигателя:",
+        "featureValue": "5 кВт"
+      },
+      {
+        "Feature Order": "26",
+        "feature": "Число оборотов:",
+        "featureValue": "3000 об/мин"
+      },
+      {
+        "Feature Order": "27",
+        "feature": "Аккумулятор в комплекте:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "28",
+        "feature": "Расход топлива:",
+        "featureValue": "1,2 л/ч"
+      },
+      {
+        "Feature Order": "29",
+        "feature": "Уровень шума:",
+        "featureValue": "66 дБ"
+      },
+      {
+        "Feature Order": "30",
+        "feature": "Тип двигателя:",
+        "featureValue": "4-х тактный"
+      },
+      {
+        "Feature Order": "31",
+        "feature": "Степень защиты:",
+        "featureValue": "IP23"
+      },
+      {
+        "Feature Order": "32",
+        "feature": "Сила тока розеток 380/220/12:",
+        "featureValue": "-/16/12 А"
+      },
+      {
+        "Feature Order": "33",
+        "feature": "Контроль напряжения:",
+        "featureValue": "AVR"
+      },
+      {
+        "Feature Order": "34",
+        "feature": "Колеса и ручки:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "35",
+        "feature": "Индикатор уровня топлива:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "36",
+        "feature": "Счетчик моточасов:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "37",
+        "feature": "Выход 12V:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "38",
+        "feature": "Тип электростанции:",
+        "featureValue": "мобильные"
+      }
+    ],
+    "featureDownArray": [
+      {
+        "featureDown": "Легкая замена оснастки;"
+      },
+      {
+        "featureDown": "Реверс облегчает извлечение сверла из материала;"
+      },
+      {
+        "featureDown": "Максимальный диаметр сверления в каменной кладке - 16 мм;"
+      },
+      {
+        "featureDown": "Пневматический ударный механизм обеспечивает энергию удара 1.3 Дж;"
+      },
+      {
+        "featureDown": "Регулировка скорости для оптимальной работы с различными материалами."
+      }
+    ],
+    "availability": "10",
+    "imgTitle": "https://www.illeon.ru/upload/iblock/bac/TSS_SGG_2800EN.jpg",
+    "imgArray": [
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/generatory/1089817/560x504/51864947.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/generatory/1089817/560x504/51864946.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/generatory/1089817/560x504/51864945.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/generatory/1089817/560x504/51864948.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/generatory/1089817/560x504/51864949.jpg"
+      }
+    ],
+    "price": 35000,
+    "orderSum": 1,
+    "priceOrder": 35000
+  },
+  {
+    "id": 269780,
+    "numberInList": 0,
+    "type": "Бензоинструмент",
+    "typeThis": "Бензиновый мотоблок",
+    "brand": "ЗУБР",
+    "name": "Бензиновый мотоблок ЗУБР МТБ-300",
+    "city": "Донецк",
+    "featureTop": "Бензиновый мотоблок ЗУБР МТБ-300 предназначен для рыхления и культивации почвы на приусадебном участке.  Ширина обработки 85 см и глубина до 35 см, а также несколько скоростей вперед и 1 назад делают модель превосходным выбором для участков площадью более 15 соток.  Кронштейн для крепления навесного оборудования (диаметр 30 мм) и шкив отбора мощности позволяют использовать широкую гамму навесного оборудования.  Большие пневматические колеса обеспечивают отличную проходимость.  Внимание! Внешний вид товара отличается от представленного на фото. Мотоблок комплектуется сошником без транспортировочных колес.",
+    "featureTopTitle": [
+      {
+        "featureTopTitleInfoTitle": "Вес нетто:",
+        "featureTopTitleInfoText": "78 кг"
+      },
+      {
+        "featureTopTitleInfoTitle": "Глубина вспашки:",
+        "featureTopTitleInfoText": "35 см"
+      },
+      {
+        "featureTopTitleInfoTitle": "Ширина вспашки:",
+        "featureTopTitleInfoText": "60-85 см"
+      },
+      {
+        "featureTopTitleInfoTitle": "Скорости:",
+        "featureTopTitleInfoText": "2 вперед/1 назад"
+      },
+      {
+        "featureTopTitleInfoTitle": "Передача мощности на активное навесное оборудование:",
+        "featureTopTitleInfoText": "шкив (ременная)"
+      },
+      {
+        "featureTopTitleInfoTitle": "Электрозапуск:",
+        "featureTopTitleInfoText": "нет"
+      }
+    ],
+    "featureMiddle": [
+      {
+        "Feature Order": "1",
+        "feature": "ЭТО ХАРАКТЕРИСТИКИ ДРУГОГО АППРАТА:",
+        "featureValue": "ЭТОТ БЛОК ДЛЯ ПРОВЕРКИ"
+      },
+      {
+        "Feature Order": "2",
+        "feature": "Тип двигателя:",
+        "featureValue": "щеточный"
+      },
+      {
+        "Feature Order": "3",
+        "feature": "Наличие удара:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "4",
+        "feature": "Ленточные (магазинные):",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "5",
+        "feature": "Наличие реверса:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "6",
+        "feature": "Наличие подсветки:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "7",
+        "feature": "Тормоз двигателя:",
+        "featureValue": "есть"
+      },
+      {
+        "Feature Order": "8",
+        "feature": "Тип патрона:",
+        "featureValue": "быстрозажимной"
+      },
+      {
+        "Feature Order": "9",
+        "feature": "Крепление патрона:",
+        "featureValue": "1/2"
+      },
+      {
+        "Feature Order": "10",
+        "feature": "Блокировка шпинделя:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "11",
+        "feature": "Размер зажимаемой оснастки:",
+        "featureValue": "2-13 мм"
+      },
+      {
+        "Feature Order": "12",
+        "feature": "MAX крутящий момент:",
+        "featureValue": "50 Нм"
+      },
+      {
+        "Feature Order": "13",
+        "feature": "Число скоростей:",
+        "featureValue": "2"
+      },
+      {
+        "Feature Order": "14",
+        "feature": "Частота вращения шпинделя:",
+        "featureValue": "0-500/0-1800 об/мин"
+      },
+      {
+        "Feature Order": "15",
+        "feature": "Число ступеней крутящего момента:",
+        "featureValue": "24+1"
+      },
+      {
+        "Feature Order": "16",
+        "feature": "MAX диаметр шурупа:",
+        "featureValue": "6 мм"
+      },
+      {
+        "Feature Order": "17",
+        "feature": "MAX диаметер сверления (металла):",
+        "featureValue": "13 мм"
+      },
+      {
+        "Feature Order": "18",
+        "feature": "MAX диаметер сверления дерева:",
+        "featureValue": "38 мм"
+      },
+      {
+        "Feature Order": "19",
+        "feature": "Тип батареи:",
+        "featureValue": "Li-Ion/Ni-Cd"
+      },
+      {
+        "Feature Order": "20",
+        "feature": "Напряжение батерии",
+        "featureValue": "18 В"
+      },
+      {
+        "Feature Order": "21",
+        "feature": "Устройство аккумулятора:",
+        "featureValue": "обойма"
+      },
+      {
+        "Feature Order": "22",
+        "feature": "Количество аккумуляторов в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "23",
+        "feature": "Зарядное устройство в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "24",
+        "feature": "Габариты без упаковки:",
+        "featureValue": "291х181х267 мм"
+      },
+      {
+        "Feature Order": "25",
+        "feature": "Вес нетто:",
+        "featureValue": "1,3 кг"
+      },
+      {
+        "Feature Order": "26",
+        "feature": "Съемный патрон:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "27",
+        "feature": "Индикатор уровня зарядки на корпусе дрели:",
+        "featureValue": "нет"
+      }
+    ],
+    "featureDownArray": [
+      {
+        "featureDown": "Мощный 4-х тактный двигатель - для высокой производительности;"
+      },
+      {
+        "featureDown": "Чугунный шестеренчато-цепной редуктор с закаленной шестигранной осью 23 мм;"
+      },
+      {
+        "featureDown": "Наличие заднего хода;"
+      },
+      {
+        "featureDown": "Большие транспортные колеса;"
+      },
+      {
+        "featureDown": "Самозатачивающиеся закаленные фрезы из конструкционной стали;"
+      },
+      {
+        "featureDown": "Универсальная сцепка;"
+      }
+    ],
+    "availability": "5",
+    "imgTitle": "https://cdn.vseinstrumenti.ru/images/goods/sadovaya-tehnika-i-instrument/motobloki/980638/560x504/54371645.jpg",
+    "imgArray": [
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/sadovaya-tehnika-i-instrument/motobloki/980638/560x504/54371644.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/sadovaya-tehnika-i-instrument/motobloki/980638/560x504/51588198.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/sadovaya-tehnika-i-instrument/motobloki/980638/560x504/54371641.jpg"
+      }
+    ],
+    "price": 33000,
+    "orderSum": 1,
+    "priceOrder": 33000
+  },
+  {
+    "id": 490891,
+    "numberInList": 0,
+    "type": "Бензоинструмент",
+    "typeThis": "Бензопила",
+    "brand": "CHAMPION",
+    "name": "Бензопила CHAMPION 241-16",
+    "city": "Донецк",
+    "featureTop": "Бензопила CHAMPION 241-16 незаменима при работах по валке деревьев, раскряжевке, обрезке ветвей и распиливания деревянных заготовок.  Данная модель оснащена подогревом камеры воздушного фильтра и карбюратора, за счет чего достигается стабильная работа в холодных условиях.  Мощный бензиновый двигатель обеспечивает высокие обороты, что гарантирует высокую производительность.  Уловитель цепи на случай обрыва и ручной тормоз цепи снижают возможность получения травмы оператором во время работы и повышают безопасность.  Автоматическая смазка цепи обуславливают простое обслуживание инструмента.",
+    "featureTopTitle": [
+      {
+        "featureTopTitleInfoTitle": "Класс пилы:",
+        "featureTopTitleInfoText": "бытовая"
+      },
+      {
+        "featureTopTitleInfoTitle": "Мощность (л.с.):",
+        "featureTopTitleInfoText": "2.45"
+      },
+      {
+        "featureTopTitleInfoTitle": "Мощность (кВт):",
+        "featureTopTitleInfoText": "1.8"
+      },
+      {
+        "featureTopTitleInfoTitle": "Длина шины:",
+        "featureTopTitleInfoText": "40 см"
+      },
+      {
+        "featureTopTitleInfoTitle": "Объем двигателя:",
+        "featureTopTitleInfoText": "40 см³"
+      },
+      {
+        "featureTopTitleInfoTitle": "Обороты холостого хода:",
+        "featureTopTitleInfoText": "3000 об/мин"
+      }
+    ],
+    "featureMiddle": [
+      {
+        "Feature Order": "1",
+        "feature": "ЭТО ХАРАКТЕРИСТИКИ ДРУГОГО АППРАТА:",
+        "featureValue": "ЭТОТ БЛОК ДЛЯ ПРОВЕРКИ"
+      },
+      {
+        "Feature Order": "2",
+        "feature": "Тип двигателя:",
+        "featureValue": "щеточный"
+      },
+      {
+        "Feature Order": "3",
+        "feature": "Наличие удара:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "4",
+        "feature": "Ленточные (магазинные):",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "5",
+        "feature": "Наличие реверса:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "6",
+        "feature": "Наличие подсветки:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "7",
+        "feature": "Тормоз двигателя:",
+        "featureValue": "есть"
+      },
+      {
+        "Feature Order": "8",
+        "feature": "Тип патрона:",
+        "featureValue": "быстрозажимной"
+      },
+      {
+        "Feature Order": "9",
+        "feature": "Крепление патрона:",
+        "featureValue": "1/2"
+      },
+      {
+        "Feature Order": "10",
+        "feature": "Блокировка шпинделя:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "11",
+        "feature": "Размер зажимаемой оснастки:",
+        "featureValue": "2-13 мм"
+      },
+      {
+        "Feature Order": "12",
+        "feature": "MAX крутящий момент:",
+        "featureValue": "50 Нм"
+      },
+      {
+        "Feature Order": "13",
+        "feature": "Число скоростей:",
+        "featureValue": "2"
+      },
+      {
+        "Feature Order": "14",
+        "feature": "Частота вращения шпинделя:",
+        "featureValue": "0-500/0-1800 об/мин"
+      },
+      {
+        "Feature Order": "15",
+        "feature": "Число ступеней крутящего момента:",
+        "featureValue": "24+1"
+      },
+      {
+        "Feature Order": "16",
+        "feature": "MAX диаметр шурупа:",
+        "featureValue": "6 мм"
+      },
+      {
+        "Feature Order": "17",
+        "feature": "MAX диаметер сверления (металла):",
+        "featureValue": "13 мм"
+      },
+      {
+        "Feature Order": "18",
+        "feature": "MAX диаметер сверления дерева:",
+        "featureValue": "38 мм"
+      },
+      {
+        "Feature Order": "19",
+        "feature": "Тип батареи:",
+        "featureValue": "Li-Ion/Ni-Cd"
+      },
+      {
+        "Feature Order": "20",
+        "feature": "Напряжение батерии",
+        "featureValue": "18 В"
+      },
+      {
+        "Feature Order": "21",
+        "feature": "Устройство аккумулятора:",
+        "featureValue": "обойма"
+      },
+      {
+        "Feature Order": "22",
+        "feature": "Количество аккумуляторов в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "23",
+        "feature": "Зарядное устройство в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "24",
+        "feature": "Габариты без упаковки:",
+        "featureValue": "291х181х267 мм"
+      },
+      {
+        "Feature Order": "25",
+        "feature": "Вес нетто:",
+        "featureValue": "1,3 кг"
+      },
+      {
+        "Feature Order": "26",
+        "feature": "Съемный патрон:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "27",
+        "feature": "Индикатор уровня зарядки на корпусе дрели:",
+        "featureValue": "нет"
+      }
+    ],
+    "featureDownArray": [
+      {
+        "featureDown": "Бензиновый двигатель для автономной работы;"
+      },
+      {
+        "featureDown": "Удобное расположение курка газа для комфорта во время использования;"
+      },
+      {
+        "featureDown": "Удобная горловина топливного бака для быстрой заправки;"
+      },
+      {
+        "featureDown": "Воздушное охлаждение для стабильной работы CHAMPION 241-16;"
+      },
+      {
+        "featureDown": "Удобная рукоятка для полного контроля над инструментом;"
+      },
+      {
+        "featureDown": "Мощный двигатель для высокой производительности."
+      }
+    ],
+    "availability": "10",
+    "imgTitle": "https://cdn.vseinstrumenti.ru/images/goods/sadovaya-tehnika-i-instrument/benzopily/884917/560x504/54983530.jpg",
+    "imgArray": [
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/sadovaya-tehnika-i-instrument/benzopily/884917/560x504/54983536.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/sadovaya-tehnika-i-instrument/benzopily/884917/560x504/54983542.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/sadovaya-tehnika-i-instrument/benzopily/884917/560x504/54983548.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/sadovaya-tehnika-i-instrument/benzopily/884917/560x504/54983554.jpg"
+      }
+    ],
+    "price": 9990,
+    "orderSum": 1,
+    "priceOrder": 9990
+  },
+  {
+    "id": 490893,
+    "numberInList": 0,
+    "type": "Сетевой инструмент",
+    "typeThis": "Дрель",
+    "brand": "AEG",
+    "name": "Дрель AEG BE 750 R",
+    "city": "Донецк",
+    "featureTop": "Дрель AEG BE 750 R 4935449160 фиксируется во включенном состоянии для удобной продолжительной работы - например, при установке на сверлильной стойке. Для подбора оптимальной скорости работы предусматривается простая регулировка частоты вращения оснастки. Инструмент позволяет сверлить отверстия диаметром до 30 мм и 13 мм в дереве и металле соответственно. Сумка способствует удобству хранения и транспортировки инструмента.",
+    "featureTopTitle": [
+      {
+        "featureTopTitleInfoTitle": "Тип двигателя:",
+        "featureTopTitleInfoText": "щеточный"
+      },
+      {
+        "featureTopTitleInfoTitle": "MAX диаметр сверления (металл):",
+        "featureTopTitleInfoText": "13 мм"
+      },
+      {
+        "featureTopTitleInfoTitle": "Max диаметр сверления (дерево):",
+        "featureTopTitleInfoText": "30 мм"
+      },
+      {
+        "featureTopTitleInfoTitle": "Число скоростей:",
+        "featureTopTitleInfoText": "1"
+      },
+      {
+        "featureTopTitleInfoTitle": "Регулировка оборотов:",
+        "featureTopTitleInfoText": "есть"
+      },
+      {
+        "featureTopTitleInfoTitle": "Вес нетто:",
+        "featureTopTitleInfoText": "быстрозажимной"
+      }
+    ],
+    "featureMiddle": [
+      {
+        "Feature Order": "1",
+        "feature": "ЭТО ХАРАКТЕРИСТИКИ ДРУГОГО АППРАТА:",
+        "featureValue": "ЭТОТ БЛОК ДЛЯ ПРОВЕРКИ"
+      },
+      {
+        "Feature Order": "2",
+        "feature": "Тип двигателя:",
+        "featureValue": "щеточный"
+      },
+      {
+        "Feature Order": "3",
+        "feature": "Наличие удара:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "4",
+        "feature": "Ленточные (магазинные):",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "5",
+        "feature": "Наличие реверса:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "6",
+        "feature": "Наличие подсветки:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "7",
+        "feature": "Тормоз двигателя:",
+        "featureValue": "есть"
+      },
+      {
+        "Feature Order": "8",
+        "feature": "Тип патрона:",
+        "featureValue": "быстрозажимной"
+      },
+      {
+        "Feature Order": "9",
+        "feature": "Крепление патрона:",
+        "featureValue": "1/2"
+      },
+      {
+        "Feature Order": "10",
+        "feature": "Блокировка шпинделя:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "11",
+        "feature": "Размер зажимаемой оснастки:",
+        "featureValue": "2-13 мм"
+      },
+      {
+        "Feature Order": "12",
+        "feature": "MAX крутящий момент:",
+        "featureValue": "50 Нм"
+      },
+      {
+        "Feature Order": "13",
+        "feature": "Число скоростей:",
+        "featureValue": "2"
+      },
+      {
+        "Feature Order": "14",
+        "feature": "Частота вращения шпинделя:",
+        "featureValue": "0-500/0-1800 об/мин"
+      },
+      {
+        "Feature Order": "15",
+        "feature": "Число ступеней крутящего момента:",
+        "featureValue": "24+1"
+      },
+      {
+        "Feature Order": "16",
+        "feature": "MAX диаметр шурупа:",
+        "featureValue": "6 мм"
+      },
+      {
+        "Feature Order": "17",
+        "feature": "MAX диаметер сверления (металла):",
+        "featureValue": "13 мм"
+      },
+      {
+        "Feature Order": "18",
+        "feature": "MAX диаметер сверления дерева:",
+        "featureValue": "38 мм"
+      },
+      {
+        "Feature Order": "19",
+        "feature": "Тип батареи:",
+        "featureValue": "Li-Ion/Ni-Cd"
+      },
+      {
+        "Feature Order": "20",
+        "feature": "Напряжение батерии",
+        "featureValue": "18 В"
+      },
+      {
+        "Feature Order": "21",
+        "feature": "Устройство аккумулятора:",
+        "featureValue": "обойма"
+      },
+      {
+        "Feature Order": "22",
+        "feature": "Количество аккумуляторов в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "23",
+        "feature": "Зарядное устройство в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "24",
+        "feature": "Габариты без упаковки:",
+        "featureValue": "291х181х267 мм"
+      },
+      {
+        "Feature Order": "25",
+        "feature": "Вес нетто:",
+        "featureValue": "1,3 кг"
+      },
+      {
+        "Feature Order": "26",
+        "feature": "Съемный патрон:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "27",
+        "feature": "Индикатор уровня зарядки на корпусе дрели:",
+        "featureValue": "нет"
+      }
+    ],
+    "featureDownArray": [
+      {
+        "featureDown": "Двухмуфтовый патрон дрели AEG BE 750 R 4935449160;"
+      },
+      {
+        "featureDown": "Эластичное покрытие с микротекстурой для уверенного контроля над инструментом;"
+      },
+      {
+        "featureDown": "Современный дизайн;"
+      },
+      {
+        "featureDown": "Конструкция с интегрированным металлическим блоком для увеличения надежности;"
+      },
+      {
+        "featureDown": "Компактный и мощный двигатель."
+      }
+    ],
+    "availability": 50,
+    "imgTitle": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/dreli-elektricheskie/721623/204x184/52011818.jpg",
+    "imgArray": [
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/dreli-elektricheskie/721623/560x504/52011818.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/dreli-elektricheskie/721623/560x504/52011819.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/dreli-elektricheskie/721623/560x504/52011820.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/dreli-elektricheskie/721623/560x504/52011821.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/dreli-elektricheskie/721623/560x504/52011822.jpg"
+      }
+    ],
+    "price": 6000,
+    "orderSum": 1,
+    "priceOrder": 6000
+  },
+  {
+    "id": 86062,
+    "numberInList": 0,
+    "type": "Сетевой инструмент",
+    "typeThis": "Лобзик электрический",
+    "brand": "RYOBI",
+    "name": "Лобзик Ryobi RJS850K",
+    "city": "Донецк",
+    "featureTop": "Лобзик Ryobi RJS850K 5133002217 имеет 4 режима маятникового хода.  Максимальная глубина пропила по дереву составляет 85мм, за счет чего увеличивается функциональность инструмента.  Скобовидная рукоятка с мягкими накладками обеспечивает комфортную работу оператора.  Модель поставляется в чемодане, что повышает удобство хранения и транспортировки.  Механизм быстрой фиксации полотна повышает скорость работы за счет быстрой смены оснастки без использования дополнительных инструментов.",
+    "featureTopTitle": [
+      {
+        "featureTopTitleInfoTitle": "Тип двигателя:",
+        "featureTopTitleInfoText": "щеточный"
+      },
+      {
+        "featureTopTitleInfoTitle": "MAX диаметр сверления (металл):",
+        "featureTopTitleInfoText": "13 мм"
+      },
+      {
+        "featureTopTitleInfoTitle": "Max диаметр сверления (дерево):",
+        "featureTopTitleInfoText": "30 мм"
+      },
+      {
+        "featureTopTitleInfoTitle": "Число скоростей:",
+        "featureTopTitleInfoText": "1"
+      },
+      {
+        "featureTopTitleInfoTitle": "Регулировка оборотов:",
+        "featureTopTitleInfoText": "есть"
+      },
+      {
+        "featureTopTitleInfoTitle": "Вес нетто:",
+        "featureTopTitleInfoText": "быстрозажимной"
+      }
+    ],
+    "featureMiddle": [
+      {
+        "Feature Order": "1",
+        "feature": "ЭТО ХАРАКТЕРИСТИКИ ДРУГОГО АППРАТА:",
+        "featureValue": "ЭТОТ БЛОК ДЛЯ ПРОВЕРКИ"
+      },
+      {
+        "Feature Order": "2",
+        "feature": "Тип двигателя:",
+        "featureValue": "щеточный"
+      },
+      {
+        "Feature Order": "3",
+        "feature": "Наличие удара:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "4",
+        "feature": "Ленточные (магазинные):",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "5",
+        "feature": "Наличие реверса:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "6",
+        "feature": "Наличие подсветки:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "7",
+        "feature": "Тормоз двигателя:",
+        "featureValue": "есть"
+      },
+      {
+        "Feature Order": "8",
+        "feature": "Тип патрона:",
+        "featureValue": "быстрозажимной"
+      },
+      {
+        "Feature Order": "9",
+        "feature": "Крепление патрона:",
+        "featureValue": "1/2"
+      },
+      {
+        "Feature Order": "10",
+        "feature": "Блокировка шпинделя:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "11",
+        "feature": "Размер зажимаемой оснастки:",
+        "featureValue": "2-13 мм"
+      },
+      {
+        "Feature Order": "12",
+        "feature": "MAX крутящий момент:",
+        "featureValue": "50 Нм"
+      },
+      {
+        "Feature Order": "13",
+        "feature": "Число скоростей:",
+        "featureValue": "2"
+      },
+      {
+        "Feature Order": "14",
+        "feature": "Частота вращения шпинделя:",
+        "featureValue": "0-500/0-1800 об/мин"
+      },
+      {
+        "Feature Order": "15",
+        "feature": "Число ступеней крутящего момента:",
+        "featureValue": "24+1"
+      },
+      {
+        "Feature Order": "16",
+        "feature": "MAX диаметр шурупа:",
+        "featureValue": "6 мм"
+      },
+      {
+        "Feature Order": "17",
+        "feature": "MAX диаметер сверления (металла):",
+        "featureValue": "13 мм"
+      },
+      {
+        "Feature Order": "18",
+        "feature": "MAX диаметер сверления дерева:",
+        "featureValue": "38 мм"
+      },
+      {
+        "Feature Order": "19",
+        "feature": "Тип батареи:",
+        "featureValue": "Li-Ion/Ni-Cd"
+      },
+      {
+        "Feature Order": "20",
+        "feature": "Напряжение батерии",
+        "featureValue": "18 В"
+      },
+      {
+        "Feature Order": "21",
+        "feature": "Устройство аккумулятора:",
+        "featureValue": "обойма"
+      },
+      {
+        "Feature Order": "22",
+        "feature": "Количество аккумуляторов в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "23",
+        "feature": "Зарядное устройство в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "24",
+        "feature": "Габариты без упаковки:",
+        "featureValue": "291х181х267 мм"
+      },
+      {
+        "Feature Order": "25",
+        "feature": "Вес нетто:",
+        "featureValue": "1,3 кг"
+      },
+      {
+        "Feature Order": "26",
+        "feature": "Съемный патрон:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "27",
+        "feature": "Индикатор уровня зарядки на корпусе дрели:",
+        "featureValue": "нет"
+      }
+    ],
+    "featureDownArray": [
+      {
+        "featureDown": "Двухмуфтовый патрон дрели AEG BE 750 R 4935449160;"
+      },
+      {
+        "featureDown": "Эластичное покрытие с микротекстурой для уверенного контроля над инструментом;"
+      },
+      {
+        "featureDown": "Современный дизайн;"
+      },
+      {
+        "featureDown": "Конструкция с интегрированным металлическим блоком для увеличения надежности;"
+      },
+      {
+        "featureDown": "Компактный и мощный двигатель."
+      }
+    ],
+    "availability": "5",
+    "imgTitle": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/lobziki-elektrolobziki/708707/560x504/52350486.jpg",
+    "imgArray": [
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/lobziki-elektrolobziki/708707/560x504/52350487.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/lobziki-elektrolobziki/708707/560x504/52350488.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/lobziki-elektrolobziki/708707/560x504/52350489.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/lobziki-elektrolobziki/708707/560x504/52350490.jpg"
+      }
+    ],
+    "price": 5700,
+    "orderSum": 1,
+    "priceOrder": 5700
+  },
+  {
+    "id": 568252,
+    "numberInList": 0,
+    "type": "Сетевой инструмент",
+    "typeThis": "Перфоратор",
+    "brand": "Bosch",
+    "name": "Перфоратор Bosch GBH 2-26 DFR",
+    "city": "Донецк",
+    "featureTop": "Перфоратор Bosch GBH 2-26 DFR 0.611.254.768 поставляется со сменным патроном. Используется для работы с бетоном, сталью и деревом. Отличается высокой скоростью сверления - 0-900 об/мин. Функционирует в трех режимах - сверление, долбление и ударное сверление. Патрон SDS-plus можно быстро и легко поменять на быстрозажимной.",
+    "featureTopTitle": [
+      {
+        "featureTopTitleInfoTitle": "Страна изготовитель:",
+        "featureTopTitleInfoText": "Германия"
+      },
+      {
+        "featureTopTitleInfoTitle": "Тип двигателя:",
+        "featureTopTitleInfoText": "щеточный"
+      },
+      {
+        "featureTopTitleInfoTitle": "Мощность:",
+        "featureTopTitleInfoText": "800 Вт"
+      },
+      {
+        "featureTopTitleInfoTitle": "Количество режимов:",
+        "featureTopTitleInfoText": "3"
+      },
+      {
+        "featureTopTitleInfoTitle": "MAX сила удара:",
+        "featureTopTitleInfoText": "2.7 Дж"
+      },
+      {
+        "featureTopTitleInfoTitle": "Max диаметр сверления буром (бетон):",
+        "featureTopTitleInfoText": "26 мм"
+      }
+    ],
+    "featureMiddle": [
+      {
+        "Feature Order": "1",
+        "feature": "ЭТО ХАРАКТЕРИСТИКИ ДРУГОГО АППРАТА:",
+        "featureValue": "ЭТОТ БЛОК ДЛЯ ПРОВЕРКИ"
+      },
+      {
+        "Feature Order": "2",
+        "feature": "Тип двигателя:",
+        "featureValue": "щеточный"
+      },
+      {
+        "Feature Order": "3",
+        "feature": "Наличие удара:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "4",
+        "feature": "Ленточные (магазинные):",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "5",
+        "feature": "Наличие реверса:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "6",
+        "feature": "Наличие подсветки:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "7",
+        "feature": "Тормоз двигателя:",
+        "featureValue": "есть"
+      },
+      {
+        "Feature Order": "8",
+        "feature": "Тип патрона:",
+        "featureValue": "быстрозажимной"
+      },
+      {
+        "Feature Order": "9",
+        "feature": "Крепление патрона:",
+        "featureValue": "1/2"
+      },
+      {
+        "Feature Order": "10",
+        "feature": "Блокировка шпинделя:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "11",
+        "feature": "Размер зажимаемой оснастки:",
+        "featureValue": "2-13 мм"
+      },
+      {
+        "Feature Order": "12",
+        "feature": "MAX крутящий момент:",
+        "featureValue": "50 Нм"
+      },
+      {
+        "Feature Order": "13",
+        "feature": "Число скоростей:",
+        "featureValue": "2"
+      },
+      {
+        "Feature Order": "14",
+        "feature": "Частота вращения шпинделя:",
+        "featureValue": "0-500/0-1800 об/мин"
+      },
+      {
+        "Feature Order": "15",
+        "feature": "Число ступеней крутящего момента:",
+        "featureValue": "24+1"
+      },
+      {
+        "Feature Order": "16",
+        "feature": "MAX диаметр шурупа:",
+        "featureValue": "6 мм"
+      },
+      {
+        "Feature Order": "17",
+        "feature": "MAX диаметер сверления (металла):",
+        "featureValue": "13 мм"
+      },
+      {
+        "Feature Order": "18",
+        "feature": "MAX диаметер сверления дерева:",
+        "featureValue": "38 мм"
+      },
+      {
+        "Feature Order": "19",
+        "feature": "Тип батареи:",
+        "featureValue": "Li-Ion/Ni-Cd"
+      },
+      {
+        "Feature Order": "20",
+        "feature": "Напряжение батерии",
+        "featureValue": "18 В"
+      },
+      {
+        "Feature Order": "21",
+        "feature": "Устройство аккумулятора:",
+        "featureValue": "обойма"
+      },
+      {
+        "Feature Order": "22",
+        "feature": "Количество аккумуляторов в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "23",
+        "feature": "Зарядное устройство в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "24",
+        "feature": "Габариты без упаковки:",
+        "featureValue": "291х181х267 мм"
+      },
+      {
+        "Feature Order": "25",
+        "feature": "Вес нетто:",
+        "featureValue": "1,3 кг"
+      },
+      {
+        "Feature Order": "26",
+        "feature": "Съемный патрон:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "27",
+        "feature": "Индикатор уровня зарядки на корпусе дрели:",
+        "featureValue": "нет"
+      }
+    ],
+    "featureDownArray": [
+      {
+        "featureDown": "Блокировка удара - для сверления в стали и древесине;"
+      },
+      {
+        "featureDown": "Блокировка вращения - для долбления;"
+      },
+      {
+        "featureDown": "Плавное начало сверления - благодаря наличию электронного управления функцией акселератора;"
+      },
+      {
+        "featureDown": "Инструмент оснащен предохранительной муфтой;"
+      },
+      {
+        "featureDown": "Шарнирное крепление провода - для предотвращения разрывов;"
+      },
+      {
+        "featureDown": "Поворотный щеткодержатель (одинаковый крутящий момент при левом и правом вращении);"
+      },
+      {
+        "featureDown": "Сменный патрон SDS-plus - в комплекте."
+      }
+    ],
+    "availability": "10",
+    "imgTitle": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/perforatory/1869/560x504/51577879.jpg",
+    "imgArray": [
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/perforatory/1869/560x504/51577880.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/perforatory/1869/560x504/51577881.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/perforatory/1869/560x504/51577882.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/perforatory/1869/560x504/51577883.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/perforatory/1869/560x504/51577884.jpg"
+      }
+    ],
+    "price": 17500,
+    "orderSum": 1,
+    "priceOrder": 17500
+  },
+  {
+    "id": 731816,
+    "numberInList": 0,
+    "type": "Пневмоинструмент",
+    "typeThis": "Пневматическая отбойная молотковая машина",
+    "brand": "КАЛИБР",
+    "name": "Пневмоотбойный молоток Калибр ОМП-815",
+    "city": "Донецк",
+    "featureTop": "Пневмоотбойный молоток Калибр ОМП-815 00000025190 предназначен для разрыхления твердых материалов, например камня или бетона. Энергия удара составляет 43 Дж, что позволяет достичь отличной производительности. Корпус изготовлен из металла для возможности стабильной работы в агрессивных условиях строительных площадок. Также стоит отметить внушительный рабочий ресурс и способность длительной работы без остановки. ",
+    "featureTopTitle": [
+      {
+        "featureTopTitleInfoTitle": "Тип инструмента:",
+        "featureTopTitleInfoText": "отбойный молоток"
+      },
+      {
+        "featureTopTitleInfoTitle": "Тип хвостовика:",
+        "featureTopTitleInfoText": "цилиндрический"
+      },
+      {
+        "featureTopTitleInfoTitle": "Расход воздуха:",
+        "featureTopTitleInfoText": "1560 л/мин"
+      },
+      {
+        "featureTopTitleInfoTitle": "Сила удара:",
+        "featureTopTitleInfoText": "43 Дж"
+      },
+      {
+        "featureTopTitleInfoTitle": "Класс товара:",
+        "featureTopTitleInfoText": "бытовой"
+      },
+      {
+        "featureTopTitleInfoTitle": "Вес нетто:",
+        "featureTopTitleInfoText": "11 кг"
+      }
+    ],
+    "featureMiddle": [
+      {
+        "feature": "Тип инструмента ",
+        "featureValue": "отбойный молоток"
+      },
+      {
+        "feature": "Размер хвостовика ",
+        "featureValue": "24х70 мм"
+      },
+      {
+        "feature": "Тип хвостовика ",
+        "featureValue": "цилиндрический"
+      },
+      {
+        "feature": "Давление ",
+        "featureValue": "6.3 атм"
+      },
+      {
+        "feature": "Расход воздуха ",
+        "featureValue": "1560 л/мин"
+      },
+      {
+        "feature": "Сила удара ",
+        "featureValue": "43 Дж"
+      },
+      {
+        "feature": "Класс товара ",
+        "featureValue": "бытовой"
+      },
+      {
+        "feature": "Упаковка ",
+        "featureValue": "коробка"
+      },
+      {
+        "feature": "Тип соединения елочка ",
+        "featureValue": "18 мм"
+      },
+      {
+        "feature": "Вес нетто ",
+        "featureValue": "11 кг"
+      },
+      {
+        "feature": "Габариты в упаковке",
+        "featureValue": "550х120х170 мм"
+      }
+    ],
+    "featureDownArray": [
+      {
+        "featureDown": "Гораздо больший рабочий ресурс по сравнению с электроинструментом;"
+      },
+      {
+        "featureDown": "Возможность длительной работы без перегрузки;"
+      },
+      {
+        "featureDown": "Низкая пожаро и взрывоопасность рабочего процесса;"
+      },
+      {
+        "featureDown": "Выгоден с экономической точки зрения;"
+      },
+      {
+        "featureDown": "Длина хвостовика: 70 мм;"
+      },
+      {
+        "featureDown": "Удельный расход свободного воздуха: 26 л/с;"
+      },
+      {
+        "featureDown": "Диаметр поршня: 38 мм;"
+      },
+      {
+        "featureDown": "Внутренний диаметр рукава: 16 мм;"
+      },
+      {
+        "featureDown": "Давление сжатого воздуха не менее 0.63 МПа."
+      }
+    ],
+    "availability": "3",
+    "imgTitle": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/pnevmoinstrument/532981/560x504/51146942.jpg",
+    "imgArray": [
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/pnevmoinstrument/532981/560x504/51146942.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/pnevmoinstrument/532981/560x504/51146943.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/pnevmoinstrument/532981/560x504/51146944.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/pnevmoinstrument/532981/560x504/51146945.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/pnevmoinstrument/532981/560x504/51146946.jpg"
+      }
+    ],
+    "price": 9500,
+    "orderSum": 1,
+    "priceOrder": 9500
+  },
+  {
+    "id": 731817,
+    "numberInList": 0,
+    "type": "Пневмоинструмент",
+    "typeThis": "Компрессор",
+    "brand": "Gigant",
+    "name": "Поршневой масляный компрессор Gigant LAS 50/1800",
+    "city": "Донецк",
+    "featureTop": "Поршневой масляный компрессор Gigant LAS 50/1800 представляет собой современный мощный агрегат, который вырабатывает воздух со сжатием в 8 бар. Модель широко используется с пистолетами для продувки, краскораспылителями, пневмостеплерами, пистолетами для подкачки шин.",
+    "featureTopTitle": [
+      {
+        "featureTopTitleInfoTitle": "Рабочее давление:",
+        "featureTopTitleInfoText": "8 бар"
+      },
+      {
+        "featureTopTitleInfoTitle": "Объем ресивера:",
+        "featureTopTitleInfoText": "50 л"
+      },
+      {
+        "featureTopTitleInfoTitle": "Тип компрессора:",
+        "featureTopTitleInfoText": "поршневой коаксиальный (прямой привод)"
+      },
+      {
+        "featureTopTitleInfoTitle": "Мощность (кВт):",
+        "featureTopTitleInfoText": "1,8"
+      },
+      {
+        "featureTopTitleInfoTitle": "Мощность (л.с.):",
+        "featureTopTitleInfoText": "2,45"
+      },
+      {
+        "featureTopTitleInfoTitle": "Вес нетто:",
+        "featureTopTitleInfoText": "27 кг"
+      }
+    ],
+    "featureMiddle": [
+      {
+        "Feature Order": "1",
+        "feature": "ЭТО ХАРАКТЕРИСТИКИ ДРУГОГО АППРАТА:",
+        "featureValue": "ЭТОТ БЛОК ДЛЯ ПРОВЕРКИ"
+      },
+      {
+        "Feature Order": "2",
+        "feature": "Тип двигателя:",
+        "featureValue": "щеточный"
+      },
+      {
+        "Feature Order": "3",
+        "feature": "Наличие удара:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "4",
+        "feature": "Ленточные (магазинные):",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "5",
+        "feature": "Наличие реверса:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "6",
+        "feature": "Наличие подсветки:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "7",
+        "feature": "Тормоз двигателя:",
+        "featureValue": "есть"
+      },
+      {
+        "Feature Order": "8",
+        "feature": "Тип патрона:",
+        "featureValue": "быстрозажимной"
+      },
+      {
+        "Feature Order": "9",
+        "feature": "Крепление патрона:",
+        "featureValue": "1/2"
+      },
+      {
+        "Feature Order": "10",
+        "feature": "Блокировка шпинделя:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "11",
+        "feature": "Размер зажимаемой оснастки:",
+        "featureValue": "2-13 мм"
+      },
+      {
+        "Feature Order": "12",
+        "feature": "MAX крутящий момент:",
+        "featureValue": "50 Нм"
+      },
+      {
+        "Feature Order": "13",
+        "feature": "Число скоростей:",
+        "featureValue": "2"
+      },
+      {
+        "Feature Order": "14",
+        "feature": "Частота вращения шпинделя:",
+        "featureValue": "0-500/0-1800 об/мин"
+      },
+      {
+        "Feature Order": "15",
+        "feature": "Число ступеней крутящего момента:",
+        "featureValue": "24+1"
+      },
+      {
+        "Feature Order": "16",
+        "feature": "MAX диаметр шурупа:",
+        "featureValue": "6 мм"
+      },
+      {
+        "Feature Order": "17",
+        "feature": "MAX диаметер сверления (металла):",
+        "featureValue": "13 мм"
+      },
+      {
+        "Feature Order": "18",
+        "feature": "MAX диаметер сверления дерева:",
+        "featureValue": "38 мм"
+      },
+      {
+        "Feature Order": "19",
+        "feature": "Тип батареи:",
+        "featureValue": "Li-Ion/Ni-Cd"
+      },
+      {
+        "Feature Order": "20",
+        "feature": "Напряжение батерии",
+        "featureValue": "18 В"
+      },
+      {
+        "Feature Order": "21",
+        "feature": "Устройство аккумулятора:",
+        "featureValue": "обойма"
+      },
+      {
+        "Feature Order": "22",
+        "feature": "Количество аккумуляторов в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "23",
+        "feature": "Зарядное устройство в комплекте:",
+        "featureValue": "нет"
+      },
+      {
+        "Feature Order": "24",
+        "feature": "Габариты без упаковки:",
+        "featureValue": "291х181х267 мм"
+      },
+      {
+        "Feature Order": "25",
+        "feature": "Вес нетто:",
+        "featureValue": "1,3 кг"
+      },
+      {
+        "Feature Order": "26",
+        "feature": "Съемный патрон:",
+        "featureValue": "да"
+      },
+      {
+        "Feature Order": "27",
+        "feature": "Индикатор уровня зарядки на корпусе дрели:",
+        "featureValue": "нет"
+      }
+    ],
+    "featureDownArray": [
+      {
+        "featureDown": "Долгий срок службы;"
+      },
+      {
+        "featureDown": "Качественное исполнение;"
+      },
+      {
+        "featureDown": "Прочная конструкция;"
+      },
+      {
+        "featureDown": "Не требует сложного технического обслуживания;"
+      },
+      {
+        "featureDown": "Диаметр поршня 47 мм;"
+      },
+      {
+        "featureDown": "Простота применения."
+      }
+    ],
+    "availability": 10,
+    "imgTitle": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/kompressory/809991/204x184/51525502.jpg",
+    "imgArray": [
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/kompressory/809991/560x504/70560763.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/kompressory/809991/560x504/70560769.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/kompressory/809991/560x504/59869680.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/kompressory/809991/560x504/70560775.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/kompressory/809991/560x504/70560781.jpg"
+      }
+    ],
+    "price": 25000,
+    "orderSum": 1,
+    "priceOrder": 25000
+  },
+  {
+    "id": 919236,
+    "numberInList": 0,
+    "type": "Пневмоинструмент",
+    "typeThis": "Гвоздезабивной пистолет пневматический",
+    "brand": "GIGANT",
+    "name": "Гвоздезабивной пистолет Gigant NG50",
+    "city": "Донецк",
+    "featureTop": "Гвоздезабивной пистолет Gigant NG50 подходит для забивания каркасных гвоздей с калибром проволоки Ga18.  Долговечность. Боек повышенной прочности продлевает срок службы инструмента.  Прочность. Корпус изготовлен из алюминия методом литья под давлением, что обеспечивает стойкость к механическим повреждениям.  Экономичность. Модель характеризуется экономичным потреблением воздуха - всего 0.6 литра за удар.",
+    "featureTopTitle": [
+      {
+        "featureTopTitleInfoTitle": "Тип инструмента:",
+        "featureTopTitleInfoText": "гвоздезабиватель"
+      },
+      {
+        "featureTopTitleInfoTitle": "Диаметр воздушного штуцера:",
+        "featureTopTitleInfoText": "1/4F дюйм"
+      },
+      {
+        "featureTopTitleInfoTitle": "Длина гвоздей:",
+        "featureTopTitleInfoText": "15, 20, 25, 30, 32, 35, 38, 40, 45, 50 мм"
+      },
+      {
+        "featureTopTitleInfoTitle": "Количество гвоздей в магазине:",
+        "featureTopTitleInfoText": "100 шт"
+      },
+      {
+        "featureTopTitleInfoTitle": "Давление:",
+        "featureTopTitleInfoText": "7.5 атм"
+      },
+      {
+        "featureTopTitleInfoTitle": "Вес нетто:",
+        "featureTopTitleInfoText": "1.55 кг"
+      }
+    ],
+    "featureMiddle": [
+      {
+        "feature": "Тип инструмента ",
+        "featureValue": "гвоздезабиватель"
+      },
+      {
+        "feature": "Тип соединения ",
+        "featureValue": "рапид (EURO)"
+      },
+      {
+        "feature": "Подходящая расходка  ",
+        "featureValue": "гвозди (штифты)"
+      },
+      {
+        "feature": "Тип гвоздей ",
+        "featureValue": "47/F/055/049/300/J/SK50"
+      },
+      {
+        "feature": "Давление ",
+        "featureValue": "7.5 атм"
+      },
+      {
+        "feature": "Диаметр воздушного штуцера ",
+        "featureValue": "1/4F дюйм"
+      },
+      {
+        "feature": "Расход воздуха на удар ",
+        "featureValue": "0.6 л/удар"
+      },
+      {
+        "feature": "Упаковка ",
+        "featureValue": "коробка"
+      },
+      {
+        "feature": "Вес нетто  ",
+        "featureValue": "1.55 кг"
+      },
+      {
+        "feature": "Габариты без упаковки ",
+        "featureValue": "283х256х60 мм"
+      },
+      {
+        "feature": "Длина гвоздей ",
+        "featureValue": "15, 20, 25, 30, 32, 35, 38, 40, 45, 50 мм"
+      },
+      {
+        "feature": "Количество гвоздей в магазине ",
+        "featureValue": "100 шт"
+      }
+    ],
+    "featureDownArray": [
+      {
+        "featureDown": "Более низкий уровень шума;"
+      },
+      {
+        "featureDown": "Инструмент хорошо сбалансирован;"
+      },
+      {
+        "featureDown": "Возможность длительной работы Gigant NG50 без остановки и перегрева;"
+      },
+      {
+        "featureDown": "Удлиненная ручка обеспечивает удобство удержания даже при длительном использовании;"
+      },
+      {
+        "featureDown": "Низкая взрыво- и пожароопасность рабочего процесса."
+      }
+    ],
+    "availability": "5",
+    "imgTitle": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/pnevmoinstrument/982635/560x504/52303193.jpg",
+    "imgArray": [
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/pnevmoinstrument/982635/560x504/52303193.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/pnevmoinstrument/982635/560x504/59860752.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/pnevmoinstrument/982635/560x504/52303194.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/pnevmoinstrument/982635/560x504/52303195.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/pnevmoinstrument/982635/560x504/52303196.jpg"
+      },
+      {
+        "src": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/pnevmoinstrument/982635/560x504/52303197.jpg"
+      }
+    ],
+    "price": 4000,
+    "orderSum": 1,
+    "priceOrder": 4000
+  }
+]
