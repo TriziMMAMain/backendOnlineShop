@@ -6,7 +6,7 @@ const app = express();
 const _ = require('lodash');
 const path = require('path')
 app.use(bodyParser.json());
-app.use(cors());
+app.use(cors({ origin: 'http://localhost:5173' }))
 
 // Код для backend
 const getInstruments = async () => {
