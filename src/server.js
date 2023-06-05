@@ -9,7 +9,9 @@ const path = require('path')
 app.use(bodyParser.json());
 
 const corsOptions = {
-    origin: 'https://frontend-online-shop-drab.vercel.app'
+    origin: '*',
+    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+    allowedHeaders: ['Content-Type']
 };
 
 app.use(cors(corsOptions));
