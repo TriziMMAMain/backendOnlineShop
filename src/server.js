@@ -16,6 +16,9 @@ const corsOptions = {
 
 app.use(cors(corsOptions));
 
+app.get('/', (req, res) => {
+    res.send('Hello world');
+});
 
 // Код для backend
 const getInstruments = async () => {
