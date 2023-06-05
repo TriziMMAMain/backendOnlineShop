@@ -1,18 +1,22 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const fs = require('fs')
-const cors = require('cors');
+
 const app = express();
 const _ = require('lodash');
 const path = require('path')
 
 app.use(bodyParser.json());
 
-app.use(cors());
+const cors = require('micro-cors')()
+const { send } = require('micro')
 
-app.get('/', (req, res) => {
-    res.send('Hello world');
-});
+
+const handler = (req, res) => {
+    send(res, 200, 'Hello World!')
+}
+app.use(cors());
+module.exports = cors(handler)
 
 // Код для backend
 const getInstruments = async () => {
