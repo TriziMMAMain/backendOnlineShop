@@ -1,17 +1,17 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
-const fs = require('fs');
 const app = express();
 const _ = require('lodash');
 const path = require('path')
+
 app.use(bodyParser.json());
-app.use(cors())
+
 app.use(cors({
     origin: ['http://localhost:5173'],
     methods: ['GET', 'PUT', 'POST', 'DELETE'],
     allowedHeaders: ['Content-Type', 'Authorization']
-}))
+}));
 
 // Код для backend
 const getInstruments = async () => {
