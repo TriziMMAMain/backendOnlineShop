@@ -7,22 +7,14 @@ const path = require('path')
 
 app.use(bodyParser.json());
 
+// использование middleware для добавления CORS
 app.use(cors({
-    origin: ['http://localhost:5173'],
-    methods: ['GET', 'PUT', 'POST', 'DELETE'],
-    allowedHeaders: ['Content-Type', 'Authorization']
+    origin: '*',
+    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+    credentials: true,
+    exposedHeaders: '',
 }));
-const { createProxyMiddleware } = require('http-proxy-middleware');
 
-app.use('/api', createProxyMiddleware({
-    target: 'https://backend-online-shop-cnx9.vercel.app',
-    changeOrigin: true,
-    onProxyRes: function(proxyRes, req, res) {
-        proxyRes.headers['Access-Control-Allow-Origin'] = 'http://localhost:5173';
-        proxyRes.headers['Access-Control-Allow-Headers'] = 'Content-Type';
-        proxyRes.headers['Access-Control-Allow-Methods'] = 'POST, PUT, GET, OPTIONS';
-    },
-}));
 
 // Код для backend
 const getInstruments = async () => {
