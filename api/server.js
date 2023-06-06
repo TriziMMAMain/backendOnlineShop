@@ -2,13 +2,18 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const fs = require('fs')
 const cors = require('cors')
-const app = express();
+const { app } = require('./routes');
 const _ = require('lodash');
 const path = require('path')
 
 app.use(bodyParser.json());
 app.use(cors());
 
+const middleware = require('./middleware');
+
+app.use(middleware);
+
+module.exports = app;
 
 // Код для backend
 const getInstruments = async () => {
