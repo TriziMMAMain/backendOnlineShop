@@ -2,7 +2,7 @@
   "name": "examplenodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "./api/server.js",
   "engines": {
     "node": "18.x"
   },
