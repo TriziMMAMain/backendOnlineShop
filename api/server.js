@@ -591,6 +591,10 @@ app.get('/api/instrument/change', async (req, res) => {
     }
 });
 
+app.use((req, res) => {
+    res.status(404).send('Error 404: Page not found');
+});
+
 app.listen(3000, () => {
     console.log('Сервер запущен на http://localhost:3000)');
 });
